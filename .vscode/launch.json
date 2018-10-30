@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnitTestUsingBuilderPattern",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.kgisl.cakeshop.UnitTestUsingBuilderPattern",
+            "args": "",
+            "projectName": "cakeshop"
+        }
+    ]
+}
