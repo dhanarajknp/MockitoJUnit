@@ -1,1 +1,3 @@
 "# MockitoJUnit" 
+
+mvn verify
